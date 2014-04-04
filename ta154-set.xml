@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList include="ta154-base.xml">
+
+  <sim>
+
+    <description>Focke Wulf Ta.154 (YASim)</description>
+    <author>Baranger Emmanuel (3D/FDM)</author>
+    <flight-model>yasim</flight-model>
+    <aero>ta154-yasim</aero>
+    
+    <rating>
+      <FDM type="int">     0 </FDM>
+      <systems type="int"> 0 </systems>
+      <cockpit type="int"> 0 </cockpit>
+      <model type="int">   0 </model>
+    </rating>
+
+  </sim>
+
+</PropertyList>
