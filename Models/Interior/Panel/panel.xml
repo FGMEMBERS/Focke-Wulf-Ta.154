@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>panel.ac</path>
+
+  <animation>
+    <!-- Objets opaques -->
+    <object-name>panel</object-name>
+
+    <!-- Objets transparents -->
+  </animation>
+
+  <!-- MAN -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/man/man.xml</path>
+    <offsets>
+      <x-m> 0.0 </x-m>
+      <y-m> 0.0 </y-m>
+      <z-m> 0.1 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- THROTTLE -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/throttle/throttleL.xml</path>
+    <offsets>
+      <x-m>  0.00 </x-m>
+      <y-m> -0.07 </y-m>
+      <z-m>  0.10 </z-m>
+    </offsets>
+  </model>
+  
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/throttle/throttleR.xml</path>
+    <offsets>
+      <x-m> 0.00 </x-m>
+      <y-m> 0.07 </y-m>
+      <z-m> 0.10 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- AIRSPEED -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/airspeed/airspeed.xml</path>
+    <offsets>
+      <x-m>  0.00 </x-m>
+      <y-m> -0.08 </y-m>
+      <z-m>  0.03 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- VSI -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/vsi/vsi.xml</path>
+    <offsets>
+      <x-m> 0.00 </x-m>
+      <y-m> 0.08 </y-m>
+      <z-m> 0.03 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- TURN -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/turn/turn.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m> -0.146 </y-m>
+      <z-m>  0.022 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- ALT -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m> -0.070 </y-m>
+      <z-m> -0.041 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- ALT RADIO -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/alt-radio/alt-radio.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m>  0.070 </y-m>
+      <z-m> -0.041 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- COMPASS -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/compass/compass.xml</path>
+    <offsets>
+      <x-m>  0.00 </x-m>
+      <y-m>  0.00 </y-m>
+      <z-m> -0.06 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- AI -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/ai/ai.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m>  0.000 </y-m>
+      <z-m>  0.021 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- MAGNETIC COMPASS -->
+  <model>
+    <path>Aircraft/Focke-Wulf-Ta.154/Models/Interior/Panel/Instruments/magneticcompass/magneticcompass.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.146 </y-m>
+      <z-m> 0.022 </z-m>
+    </offsets>
+  </model>
+  
+</PropertyList>
